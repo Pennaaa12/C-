@@ -1,0 +1,14 @@
+C:\Users\SENA\Documents\Trabajo_C-\polimorfismo_encapsulacion\bin\Debug\net8.0\polimorfismo_encapsulacion.exe
+C:\Users\SENA\Documents\Trabajo_C-\polimorfismo_encapsulacion\bin\Debug\net8.0\polimorfismo_encapsulacion.deps.json
+C:\Users\SENA\Documents\Trabajo_C-\polimorfismo_encapsulacion\bin\Debug\net8.0\polimorfismo_encapsulacion.runtimeconfig.json
+C:\Users\SENA\Documents\Trabajo_C-\polimorfismo_encapsulacion\bin\Debug\net8.0\polimorfismo_encapsulacion.dll
+C:\Users\SENA\Documents\Trabajo_C-\polimorfismo_encapsulacion\bin\Debug\net8.0\polimorfismo_encapsulacion.pdb
+C:\Users\SENA\Documents\Trabajo_C-\polimorfismo_encapsulacion\obj\Debug\net8.0\polimorfismo_encapsulacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENA\Documents\Trabajo_C-\polimorfismo_encapsulacion\obj\Debug\net8.0\polimorfismo_encapsulacion.AssemblyInfoInputs.cache
+C:\Users\SENA\Documents\Trabajo_C-\polimorfismo_encapsulacion\obj\Debug\net8.0\polimorfismo_encapsulacion.AssemblyInfo.cs
+C:\Users\SENA\Documents\Trabajo_C-\polimorfismo_encapsulacion\obj\Debug\net8.0\polimorfismo_encapsulacion.csproj.CoreCompileInputs.cache
+C:\Users\SENA\Documents\Trabajo_C-\polimorfismo_encapsulacion\obj\Debug\net8.0\polimorfismo_encapsulacion.dll
+C:\Users\SENA\Documents\Trabajo_C-\polimorfismo_encapsulacion\obj\Debug\net8.0\refint\polimorfismo_encapsulacion.dll
+C:\Users\SENA\Documents\Trabajo_C-\polimorfismo_encapsulacion\obj\Debug\net8.0\polimorfismo_encapsulacion.pdb
+C:\Users\SENA\Documents\Trabajo_C-\polimorfismo_encapsulacion\obj\Debug\net8.0\polimorfismo_encapsulacion.genruntimeconfig.cache
+C:\Users\SENA\Documents\Trabajo_C-\polimorfismo_encapsulacion\obj\Debug\net8.0\ref\polimorfismo_encapsulacion.dll

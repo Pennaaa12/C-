@@ -1,0 +1,7 @@
+C:\Users\SENA\source\repos\Interfaces_clases\bin\Debug\Interfaces_clases.exe.config
+C:\Users\SENA\source\repos\Interfaces_clases\bin\Debug\Interfaces_clases.exe
+C:\Users\SENA\source\repos\Interfaces_clases\bin\Debug\Interfaces_clases.pdb
+C:\Users\SENA\source\repos\Interfaces_clases\obj\Debug\Interfaces_clases.csproj.AssemblyReference.cache
+C:\Users\SENA\source\repos\Interfaces_clases\obj\Debug\Interfaces_clases.csproj.CoreCompileInputs.cache
+C:\Users\SENA\source\repos\Interfaces_clases\obj\Debug\Interfaces_clases.exe
+C:\Users\SENA\source\repos\Interfaces_clases\obj\Debug\Interfaces_clases.pdb
